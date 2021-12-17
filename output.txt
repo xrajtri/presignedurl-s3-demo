@@ -1,0 +1,2 @@
+PS D:\Learning\Node Lambda\preSignedURLS3> node index.js
+ Presigned URL to access the object is: https://presigned-url-demo-xrajtri-2021.s3.amazonaws.com/img1.jpg?AWSAccessKeyId=AKIAWENER6V3NQO2MB6C&Expires=1639661889&Signature=viFSvhvPpS5oSyjfliI9N3VXp68%3D
